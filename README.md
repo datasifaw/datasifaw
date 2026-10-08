@@ -151,15 +151,19 @@ Deep Learning project for facial expression classification.
 
 
 
-## 📈 GitHub Contribution Activity
+
+## 🏙️ My 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/409ba5/datasifaw"
-     alt="Sifaw GitHub Contributions"
-     width="100%" />
+<img
+  src="./profile-3d-contrib/profile-night-view.svg"
+  alt="Sifaw's 3D Contribution Graph"
+  width="100%"
+/>
 
 </div>
+
 
 ---
 
