@@ -150,13 +150,19 @@ Deep Learning project for facial expression classification.
 ---
 
 
-## 📈 GitHub Activity Graph
+
+## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-[![Sifaw's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=datasifaw&theme=github-dark&area=true)](https://github.com/datasifaw)
+<img src="https://ghchart.rshah.org/409ba5/datasifaw"
+     alt="Sifaw GitHub Contributions"
+     width="100%" />
 
 </div>
+
+---
+
 
 ---
 
