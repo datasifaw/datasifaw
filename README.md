@@ -171,19 +171,6 @@ Deep Learning project for facial expression classification.
 
 </div>
 
----
-
-##  Animated 3D Contributions
-
-<div align="center">
-
-<img
-  src="./profile-3d-contrib/profile-season-animate.svg"
-  alt="Animated GitHub Contributions"
-  width="100%"
-/>
-
-</div>
 
 ---
 
