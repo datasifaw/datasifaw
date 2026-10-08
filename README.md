@@ -171,17 +171,6 @@ Deep Learning project for facial expression classification.
 
 </div>
 
----
-
-
----
-
-
----
-
-
----
-
 
 ---
 
@@ -194,7 +183,7 @@ Deep Learning project for facial expression classification.
 - 🔹 Data Visualization & Business Intelligence
 - 🔹 Scalable Data Processing
 
----
+
 
 
 ---
