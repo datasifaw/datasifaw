@@ -15,8 +15,6 @@
 
 ---
 
-## 🏙️ My 3D Contribution Graph
-
 <div align="center">
 
 <img
@@ -28,8 +26,6 @@
 </div>
 
 ---
-
-## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
 
@@ -200,13 +196,6 @@ Deep Learning project for facial expression classification.
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-datasifaw-181717?style=for-the-badge&logo=github)](https://github.com/datasifaw)
-
-</div>
 
 ---
 
