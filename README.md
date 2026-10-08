@@ -173,7 +173,7 @@ Deep Learning project for facial expression classification.
 
 ---
 
-## 🌈 Animated 3D Contributions
+##  Animated 3D Contributions
 
 <div align="center">
 
