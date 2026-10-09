@@ -38,6 +38,22 @@
     src="https://raw.githubusercontent.com/datasifaw/datasifaw/output/github-contribution-grid-snake.svg">
 </picture>
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=datasifaw&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=datasifaw&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
+
+</div>
+
 </div>
 ## 🧠 About Me
 
@@ -153,23 +169,8 @@ Deep Learning project for facial expression classification.
 
 [🔗 View Project](https://github.com/datasifaw/Projet_Expressions_faciales-motions-)
 
----
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=datasifaw&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=datasifaw&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-/>
-
-</div>
 
 
 ---
