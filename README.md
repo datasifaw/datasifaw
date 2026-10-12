@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi there, I'm Sifaw Said !
+# 👋 Hi there, I'm SAID Sifaw  !
 
 ### 🚀 Data Engineering | Data Analytics | Machine Learning
 
