@@ -19,21 +19,6 @@
 ---
 
 
-<h2>📈 GitHub Contributions</h2>
-
-<div align="center">
-
-
-
-  <img
-    src="./profile-3d-contrib/profile-night-view.svg"
-    alt="GitHub 3D Contributions - Rolling Calendar"
-    width="100%"
-  />
-
-  <p><i>3D contribution graph: rolling calendar (approximately one year)</i></p>
-
-</div>
 
 ## 📊 GitHub Statistics
 
