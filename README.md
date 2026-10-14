@@ -11,7 +11,7 @@
 ![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdatasifaw&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=purple)
 
 <!-- PROFILE-DATES:START -->
-**GitHub journey:** Dates are refreshed automatically by GitHub Actions.
+**GitHub journey:** 02/10/2024 → 14/10/2026 (updated daily, UTC)
 <!-- PROFILE-DATES:END -->
 
 </div>
@@ -87,7 +87,30 @@ I'm passionate about Data Engineering, Data Analytics, and Artificial Intelligen
 ## 📚 All Public Projects (automatically updated)
 
 <!-- ALL-PROJECTS:START -->
-_This list is populated by GitHub Actions. Run the Update Profile Projects workflow once after installation._
+| Project | Description | Language |
+| --- | --- | --- |
+| [airflow-weather-pipeline](https://github.com/datasifaw/airflow-weather-pipeline) | — | Python |
+| [arinasdsifaw](https://github.com/datasifaw/arinasdsifaw) | — | — |
+| [certif](https://github.com/datasifaw/certif) | — | — |
+| [Classifieur-de-v-tements-Fashion-MNIST](https://github.com/datasifaw/Classifieur-de-v-tements-Fashion-MNIST) | Classifieur d’images de vêtements basé sur un CNN TensorFlow/Keras entraîné sur Fashion-MNIST, avec environ 91 % de précision, visualisation des performances et modèle pré-entraîné | Jupyter Notebook |
+| [DATA-ANALYST](https://github.com/datasifaw/DATA-ANALYST) | — | — |
+| [DATA-SCIENCE-IA](https://github.com/datasifaw/DATA-SCIENCE-IA) | — | — |
+| [databricks-projet](https://github.com/datasifaw/databricks-projet) | — | Python |
+| [databricks-projet-bancaire-lakehouse](https://github.com/datasifaw/databricks-projet-bancaire-lakehouse) | Projet Data Engineering bancaire de bout en bout avec Databricks : ingestion des données clients, comptes et transactions depuis SQL Server, traitement en architecture Bronze-Silver-Gold, transformations PySpark, stockage Delta Lake, contrôles de qualité, orchestration via Workflows et création d’indicateurs financiers pour un dashboard BI fiable | TSQL |
+| [Dataiku-certification-Projets](https://github.com/datasifaw/Dataiku-certification-Projets) | — | — |
+| [dataiku-fx-api-analytics-ml](https://github.com/datasifaw/dataiku-fx-api-analytics-ml) | Projet Dataiku end-to-end : ingestion de taux de change via Frankfurter API, traitement JSON, analytics, dashboard, machine learning et automatisation | — |
+| [dataiku-projet-bancaire-analytics](https://github.com/datasifaw/dataiku-projet-bancaire-analytics) | Projet bancaire end-to-end avec Dataiku : préparation des données, analytics, Machine Learning, scoring et automatisation avec Scenarios... | — |
+| [ETL-BigDATA](https://github.com/datasifaw/ETL-BigDATA) | — | Jupyter Notebook |
+| [MongoDB](https://github.com/datasifaw/MongoDB) | — | — |
+| [Projet_Expressions_faciales-motions-](https://github.com/datasifaw/Projet_Expressions_faciales-motions-) | Classification des émotions faciales sur FER2013 avec PyTorch : comparaison d’un CNN from scratch et d’un ResNet18 en Transfer Learning, avec optimisation des hyperparamètres et 62,69 % d’accuracy | Jupyter Notebook |
+| [Python_](https://github.com/datasifaw/Python_) | — | Python |
+| [sazotech-airflow-sales-data-pipeline](https://github.com/datasifaw/sazotech-airflow-sales-data-pipeline) | — | Python |
+| [SAZOTECH-Velib-Pulse](https://github.com/datasifaw/SAZOTECH-Velib-Pulse) | — | — |
+| [SQL](https://github.com/datasifaw/SQL) | — | — |
+| [world-bank-economic-data-pipeline](https://github.com/datasifaw/world-bank-economic-data-pipeline) | Pipeline Data Engineering de bout en bout : API World Bank, Talend Studio 8, SQL Server (Bronze/Silver), contrôles qualité et dashboard Power BI | TSQL |
+| [world-bank-talend-studio](https://github.com/datasifaw/world-bank-talend-studio) | Développement et versionnement de 8 Jobs ETL Talend Studio 8 : extraction API REST, parsing JSON, transformations et chargement SQL Server | — |
+
+**20 public projects** (excluding forks and this profile repository).
 <!-- ALL-PROJECTS:END -->
 
 ---
