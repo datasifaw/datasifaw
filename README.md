@@ -23,9 +23,7 @@
 
 <div align="center">
 
-  <h3>🚀 GitHub Journey: 02/10/2024 → Present</h3>
 
-  <p>Full GitHub history since October 2, 2024</p>
 
   <img
     src="./profile-3d-contrib/profile-night-view.svg"
