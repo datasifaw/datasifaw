@@ -18,18 +18,23 @@
 
 ---
 
-## 📈 GitHub Contributions (rolling calendar)
+
+<h2>📈 GitHub Contributions</h2>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution calendar (recent period)" width="100%" />
-</div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datasifaw/datasifaw/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/datasifaw/datasifaw/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/datasifaw/datasifaw/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <h3>🚀 GitHub Journey: 02/10/2024 → Present</h3>
+
+  <p>Full GitHub history since October 2, 2024</p>
+
+  <img
+    src="./profile-3d-contrib/profile-night-view.svg"
+    alt="GitHub 3D Contributions - Rolling Calendar"
+    width="100%"
+  />
+
+  <p><i>3D contribution graph: rolling calendar (approximately one year)</i></p>
+
 </div>
 
 ## 📊 GitHub Statistics
