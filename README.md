@@ -11,7 +11,7 @@
 ![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdatasifaw&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=purple)
 
 <!-- PROFILE-DATES:START -->
-**GitHub journey:** 02/10/2024 → 15/10/2026 (updated daily, UTC)
+**GitHub journey:** 02/10/2024 → 16/10/2026 (updated daily, UTC)
 <!-- PROFILE-DATES:END -->
 
 </div>
@@ -89,16 +89,17 @@ I'm passionate about Data Engineering, Data Analytics, and Artificial Intelligen
 | [dataiku-fx-api-analytics-ml](https://github.com/datasifaw/dataiku-fx-api-analytics-ml) | Projet Dataiku end-to-end : ingestion de taux de change via Frankfurter API, traitement JSON, analytics, dashboard, machine learning et automatisation | — |
 | [dataiku-projet-bancaire-analytics](https://github.com/datasifaw/dataiku-projet-bancaire-analytics) | Projet bancaire end-to-end avec Dataiku : préparation des données, analytics, Machine Learning, scoring et automatisation avec Scenarios... | — |
 | [ETL-BigDATA](https://github.com/datasifaw/ETL-BigDATA) |  concevoir et mettre en œuvre un pipeline ETL temps réel complet basé sur Kafka, PySpark et MongoDB. j'ai appris à gérer des flux de données, à les transformer en streaming, et à les exploiter via des visualisations claires | Jupyter Notebook |
+| [MiniBank_Cpp](https://github.com/datasifaw/MiniBank_Cpp) | MiniBank - Simulation bancaire en C++ | — |
 | [MongoDB](https://github.com/datasifaw/MongoDB) | MongoDB Projet | — |
 | [Projet_Expressions_faciales-motions-](https://github.com/datasifaw/Projet_Expressions_faciales-motions-) | Classification des émotions faciales sur FER2013 avec PyTorch : comparaison d’un CNN from scratch et d’un ResNet18 en Transfer Learning, avec optimisation des hyperparamètres et 62,69 % d’accuracy | Jupyter Notebook |
 | [Python_](https://github.com/datasifaw/Python_) | Ce dépôt regroupe plusieurs projets Python réalisés autour de la manipulation des données, de la programmation procédurale et de l'analyse d'informations. | Python |
 | [sazotech-airflow-sales-data-pipeline](https://github.com/datasifaw/sazotech-airflow-sales-data-pipeline) | Pipeline ETL automatisé permettant d'extraire des données commerciales depuis Microsoft SQL Server, de les transformer avec Apache Airflow, de les charger dans PostgreSQL puis de les visualiser dans Metabase. | Python |
 | [SAZOTECH-Velib-Pulse](https://github.com/datasifaw/SAZOTECH-Velib-Pulse) | Plateforme temps réel de collecte, supervision, analyse et alerte sur la disponibilité des stations Vélib’ Métropole | — |
-| [SQL](https://github.com/datasifaw/SQL) | — | — |
+| [SQL](https://github.com/datasifaw/SQL) | Exercices Sur MySQL SERVER  | — |
 | [world-bank-economic-data-pipeline](https://github.com/datasifaw/world-bank-economic-data-pipeline) | Pipeline Data Engineering de bout en bout : API World Bank, Talend Studio 8, SQL Server (Bronze/Silver), contrôles qualité et dashboard Power BI | TSQL |
 | [world-bank-talend-studio](https://github.com/datasifaw/world-bank-talend-studio) | Développement et versionnement de 8 Jobs ETL Talend Studio 8 : extraction API REST, parsing JSON, transformations et chargement SQL Server | — |
 
-**20 public projects** (excluding forks and this profile repository).
+**21 public projects** (excluding forks and this profile repository).
 <!-- ALL-PROJECTS:END -->
 
 ---
