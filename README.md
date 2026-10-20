@@ -11,7 +11,7 @@
 ![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdatasifaw&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=purple)
 
 <!-- PROFILE-DATES:START -->
-**GitHub journey:** 02/10/2024 → 19/10/2026 (updated daily, UTC)
+**GitHub journey:** 02/10/2024 → 20/10/2026 (updated daily, UTC)
 <!-- PROFILE-DATES:END -->
 
 </div>
@@ -87,8 +87,9 @@ I'm passionate about Data Engineering, Data Analytics, and Artificial Intelligen
 | [databricks-projet-bancaire-lakehouse](https://github.com/datasifaw/databricks-projet-bancaire-lakehouse) | Projet Data Engineering bancaire de bout en bout avec Databricks : ingestion des données clients, comptes et transactions depuis SQL Server, traitement en architecture Bronze-Silver-Gold, transformations PySpark, stockage Delta Lake, contrôles de qualité, orchestration via Workflows et création d’indicateurs financiers pour un dashboard BI fiable | TSQL |
 | [Dataiku-certification-Projets](https://github.com/datasifaw/Dataiku-certification-Projets) | Dataiku : Mes certifications  | — |
 | [dataiku-fx-api-analytics-ml](https://github.com/datasifaw/dataiku-fx-api-analytics-ml) | Projet Dataiku end-to-end : ingestion de taux de change via Frankfurter API, traitement JSON, analytics, dashboard, machine learning et automatisation | — |
-| [dataiku-projet-bancaire-analytics](https://github.com/datasifaw/dataiku-projet-bancaire-analytics) | Projet bancaire end-to-end avec Dataiku : préparation des données, analytics, Machine Learning, scoring et automatisation avec Scenarios... | — |
+| [dataiku-projet-bancaire-analytics](https://github.com/datasifaw/dataiku-projet-bancaire-analytics) | End-to-end Banking Analytics with Dataiku \| Data Preparation, Machine Learning, Customer Scoring &amp; Automated Pipelines | — |
 | [ETL-BigDATA](https://github.com/datasifaw/ETL-BigDATA) |  concevoir et mettre en œuvre un pipeline ETL temps réel complet basé sur Kafka, PySpark et MongoDB. j'ai appris à gérer des flux de données, à les transformer en streaming, et à les exploiter via des visualisations claires | Jupyter Notebook |
+| [github-badges-lab](https://github.com/datasifaw/github-badges-lab) | Apprentissage des Pull Requests GitHub | — |
 | [MiniBank_Cpp](https://github.com/datasifaw/MiniBank_Cpp) | MiniBank - Simulation bancaire en C++ | C++ |
 | [MongoDB](https://github.com/datasifaw/MongoDB) | MongoDB Projet | — |
 | [Projet_Expressions_faciales-motions-](https://github.com/datasifaw/Projet_Expressions_faciales-motions-) | Classification des émotions faciales sur FER2013 avec PyTorch : comparaison d’un CNN from scratch et d’un ResNet18 en Transfer Learning, avec optimisation des hyperparamètres et 62,69 % d’accuracy | Jupyter Notebook |
@@ -99,7 +100,7 @@ I'm passionate about Data Engineering, Data Analytics, and Artificial Intelligen
 | [world-bank-economic-data-pipeline](https://github.com/datasifaw/world-bank-economic-data-pipeline) | Pipeline Data Engineering de bout en bout : API World Bank, Talend Studio 8, SQL Server (Bronze/Silver), contrôles qualité et dashboard Power BI | TSQL |
 | [world-bank-talend-studio](https://github.com/datasifaw/world-bank-talend-studio) | Développement et versionnement de 8 Jobs ETL Talend Studio 8 : extraction API REST, parsing JSON, transformations et chargement SQL Server | — |
 
-**21 public projects** (excluding forks and this profile repository).
+**22 public projects** (excluding forks and this profile repository).
 <!-- ALL-PROJECTS:END -->
 
 ---
