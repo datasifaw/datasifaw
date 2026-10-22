@@ -11,7 +11,7 @@
 ![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdatasifaw&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=purple)
 
 <!-- PROFILE-DATES:START -->
-**GitHub journey:** 02/10/2024 → 21/10/2026 (updated daily, UTC)
+**GitHub journey:** 02/10/2024 → 22/10/2026 (updated daily, UTC)
 <!-- PROFILE-DATES:END -->
 
 </div>
@@ -92,6 +92,7 @@ I'm passionate about Data Engineering, Data Analytics, and Artificial Intelligen
 | [github-badges-lab](https://github.com/datasifaw/github-badges-lab) | Apprentissage des Pull Requests GitHub | — |
 | [MiniBank_Cpp](https://github.com/datasifaw/MiniBank_Cpp) | MiniBank - Simulation bancaire en C++ | C++ |
 | [MongoDB](https://github.com/datasifaw/MongoDB) | MongoDB Projet | — |
+| [POWER_BI_VENTES_SA](https://github.com/datasifaw/POWER_BI_VENTES_SA) | POWR_BI_VENTES_SA is a Business Intelligence project developed using SQL Server, Power Query, DAX, and Power BI. It aims to create an interactive dashboard to analyze sales performance, track key KPIs, and support data-driven decision-making. | TSQL |
 | [Projet_Expressions_faciales-motions-](https://github.com/datasifaw/Projet_Expressions_faciales-motions-) | Classification des émotions faciales sur FER2013 avec PyTorch : comparaison d’un CNN from scratch et d’un ResNet18 en Transfer Learning, avec optimisation des hyperparamètres et 62,69 % d’accuracy | Jupyter Notebook |
 | [Python_](https://github.com/datasifaw/Python_) | Ce dépôt regroupe plusieurs projets Python réalisés autour de la manipulation des données, de la programmation procédurale et de l'analyse d'informations. | Python |
 | [sazotech-airflow-sales-data-pipeline](https://github.com/datasifaw/sazotech-airflow-sales-data-pipeline) | Pipeline ETL automatisé permettant d'extraire des données commerciales depuis Microsoft SQL Server, de les transformer avec Apache Airflow, de les charger dans PostgreSQL puis de les visualiser dans Metabase. | Python |
@@ -100,7 +101,7 @@ I'm passionate about Data Engineering, Data Analytics, and Artificial Intelligen
 | [world-bank-economic-data-pipeline](https://github.com/datasifaw/world-bank-economic-data-pipeline) | Pipeline Data Engineering de bout en bout : API World Bank, Talend Studio 8, SQL Server (Bronze/Silver), contrôles qualité et dashboard Power BI | TSQL |
 | [world-bank-talend-studio](https://github.com/datasifaw/world-bank-talend-studio) | Développement et versionnement de 8 Jobs ETL Talend Studio 8 : extraction API REST, parsing JSON, transformations et chargement SQL Server | — |
 
-**22 public projects** (excluding forks and this profile repository).
+**23 public projects** (excluding forks and this profile repository).
 <!-- ALL-PROJECTS:END -->
 
 ---
