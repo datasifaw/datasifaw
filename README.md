@@ -11,7 +11,7 @@
 ![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdatasifaw&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=purple)
 
 <!-- PROFILE-DATES:START -->
-**GitHub journey:** 02/10/2024 → 22/10/2026 (updated daily, UTC)
+**GitHub journey:** 02/10/2024 → 23/10/2026 (updated daily, UTC)
 <!-- PROFILE-DATES:END -->
 
 </div>
@@ -97,11 +97,12 @@ I'm passionate about Data Engineering, Data Analytics, and Artificial Intelligen
 | [Python_](https://github.com/datasifaw/Python_) | Ce dépôt regroupe plusieurs projets Python réalisés autour de la manipulation des données, de la programmation procédurale et de l'analyse d'informations. | Python |
 | [sazotech-airflow-sales-data-pipeline](https://github.com/datasifaw/sazotech-airflow-sales-data-pipeline) | Pipeline ETL automatisé permettant d'extraire des données commerciales depuis Microsoft SQL Server, de les transformer avec Apache Airflow, de les charger dans PostgreSQL puis de les visualiser dans Metabase. | Python |
 | [SAZOTECH-Velib-Pulse](https://github.com/datasifaw/SAZOTECH-Velib-Pulse) | Plateforme temps réel de collecte, supervision, analyse et alerte sur la disponibilité des stations Vélib’ Métropole | — |
+| [shopflow-dataops](https://github.com/datasifaw/shopflow-dataops) | E-commerce DataOps project with Python, SQL Server, Docker, Jenkins and Jira | Python |
 | [SQL](https://github.com/datasifaw/SQL) | Exercices Sur MySQL SERVER  | — |
 | [world-bank-economic-data-pipeline](https://github.com/datasifaw/world-bank-economic-data-pipeline) | Pipeline Data Engineering de bout en bout : API World Bank, Talend Studio 8, SQL Server (Bronze/Silver), contrôles qualité et dashboard Power BI | TSQL |
 | [world-bank-talend-studio](https://github.com/datasifaw/world-bank-talend-studio) | Développement et versionnement de 8 Jobs ETL Talend Studio 8 : extraction API REST, parsing JSON, transformations et chargement SQL Server | — |
 
-**23 public projects** (excluding forks and this profile repository).
+**24 public projects** (excluding forks and this profile repository).
 <!-- ALL-PROJECTS:END -->
 
 ---
