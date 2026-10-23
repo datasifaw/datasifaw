@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm SAID Sifaw!
+# 👋 Hi there, I'm SAZ Sifaw!
 
 ### 🚀 Data Engineering | Data Analytics | Machine Learning
 
