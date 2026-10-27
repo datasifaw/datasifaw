@@ -44,7 +44,7 @@ I'm passionate about Data Engineering, Data Analytics, and Artificial Intelligen
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
+### ⭐⭐⭐⭐⭐ Thanks for visiting my GitHub profile ⭐⭐⭐⭐⭐!
 
 **Data • Engineering • Analytics • AI**
 
