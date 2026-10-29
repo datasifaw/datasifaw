@@ -21,12 +21,28 @@
 
 
 
-## 📊 GitHub Statistics
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datasifaw&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datasifaw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=70&section=header&text=GitHub%20Analytics&fontSize=28&fontColor=58A6FF&animation=fadeIn" width="100%" alt="GitHub Analytics" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=datasifaw&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datasifaw&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=datasifaw&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datasifaw&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph" />
+
 </div>
+
 
 ## 🧠 About Me
 
