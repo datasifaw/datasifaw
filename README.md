@@ -25,33 +25,36 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
+<div align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=datasifaw&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=datasifaw&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
     alt="GitHub Statistics"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=datasifaw&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Most Used Languages"
-  />
-</p>
 
-<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=datasifaw&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
+
+  <br/><br/>
+
   <img
     src="https://streak-stats.demolab.com?user=datasifaw&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
-</p>
 
-<p align="center">
+  <br/><br/>
+
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=datasifaw&theme=tokyo-night&hide_border=true"
-    width="95%"
-    alt="GitHub Contribution Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datasifaw&theme=tokyonight"
+    width="90%"
+    alt="GitHub Activity Overview"
   />
-</p>
+
+</div>
 
 
 
