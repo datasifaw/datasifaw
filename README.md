@@ -27,34 +27,32 @@
 
 <div align="center">
 
+  <!-- 3 cartes sur une seule ligne -->
   <img
     src="https://github-stats-extended.vercel.app/api?username=datasifaw&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Statistics"
-  />
-
-  <img
+    width="32%"
+    alt="GitHub Stats"
+  /><img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=datasifaw&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
+    width="32%"
     alt="Top Languages"
-  />
-
-  <br/><br/>
-
-  <img
+  /><img
     src="https://streak-stats.demolab.com?user=datasifaw&theme=tokyonight&hide_border=true"
+    width="32%"
     alt="GitHub Streak"
   />
 
+  <!-- Graphique en dessous -->
   <br/><br/>
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datasifaw&theme=tokyonight"
-    width="90%"
-    alt="GitHub Activity Overview"
+    width="95%"
+    alt="GitHub Activity"
   />
 
 </div>
+
 
 
 
