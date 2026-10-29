@@ -34,14 +34,6 @@
   />
 
 </div>
-## 🧠  I'm passionate about Data Engineering, Data Analytics, and Artificial Intelligence.
-
-- 🔭 Building end-to-end data pipelines and analytics solutions
-- 🌱 Exploring Dataiku, Databricks, Apache Airflow and Machine Learning
-- 📊 Interested in Business Intelligence and data visualization
-- ⚙️ Working with Python, SQL and modern data platforms
-- 🎯 Focused on building scalable, reliable and efficient data solutions
-- 📍 Based in France
 
 <div align="center">
 
