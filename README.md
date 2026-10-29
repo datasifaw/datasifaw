@@ -4,15 +4,10 @@
 
 ### 🚀 Data Engineering | Data Analytics | Machine Learning
 
-###Turning raw data  into meaningful insights
-
 [![Profile Visits](https://hits.sh/github.com/datasifaw.svg?style=for-the-badge&label=Profile%20Visits&color=0e75b6)](https://hits.sh/github.com/datasifaw/)
-![Followers](https://img.shields.io/github/followers/datasifaw?label=Followers&style=for-the-badge&color=blue)
-![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdatasifaw&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=purple)
+
 
 </div>
-
-<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
@@ -30,8 +25,6 @@
     width="32%"
     alt="GitHub Streak"
   />
-
-  <!-- Graphique en dessous -->
   <br/><br/>
 
   <img
@@ -41,8 +34,7 @@
   />
 
 </div>
-## 🧠 About Me
-I'm passionate about Data Engineering, Data Analytics, and Artificial Intelligence.
+## 🧠  I'm passionate about Data Engineering, Data Analytics, and Artificial Intelligence.
 
 - 🔭 Building end-to-end data pipelines and analytics solutions
 - 🌱 Exploring Dataiku, Databricks, Apache Airflow and Machine Learning
@@ -53,8 +45,6 @@ I'm passionate about Data Engineering, Data Analytics, and Artificial Intelligen
 
 <div align="center">
 
-### ⭐⭐⭐⭐⭐ Thanks for visiting my GitHub profile ⭐⭐⭐⭐⭐!
-
-**Data • Engineering • Analytics • AI**
+### ⭐⭐⭐⭐⭐ Thanks for visiting my GitHub profile ⭐⭐⭐⭐⭐
                     
 </div>
