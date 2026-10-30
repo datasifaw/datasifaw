@@ -7,6 +7,10 @@
 [![Profile Visits](https://hits.sh/github.com/datasifaw.svg?style=for-the-badge&label=Profile%20Visits&color=0e75b6)](https://hits.sh/github.com/datasifaw/)
 
  
+<!-- PROFILE-DATES:START -->
+**GitHub journey:** 02/10/2024 → 30/10/2026 (updated daily, UTC)
+<!-- PROFILE-DATES:END -->
+
 </div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -38,10 +42,6 @@
 </div>
 
 
-
-<!-- PROFILE-DATES:START -->
-**GitHub journey:** 02/10/2024 → 30/10/2026 (updated daily, UTC)
-<!-- PROFILE-DATES:END -->
 
 ### ⭐⭐⭐⭐⭐ Thanks for visiting my GitHub profile ⭐⭐⭐⭐⭐
                     
