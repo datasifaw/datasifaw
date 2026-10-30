@@ -1,18 +1,13 @@
 <div align="center">
 
 # 👋 Hi there, I'm SAZ Sifaw!
-
 ### 🚀 Data Engineering | Data Analytics | Machine Learning
-
 [![Profile Visits](https://hits.sh/github.com/datasifaw.svg?style=for-the-badge&label=Profile%20Visits&color=0e75b6)](https://hits.sh/github.com/datasifaw/)
 
- 
 <!-- PROFILE-DATES:START -->
 **GitHub journey:** 02/10/2024 → 30/10/2026 (updated daily, UTC)
 <!-- PROFILE-DATES:END -->
-
 </div>
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -30,9 +25,6 @@
     width="32%"
     alt="GitHub Streak"
   />
-
-  <br/><br/>
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datasifaw&amp;theme=tokyonight&amp;v=20261030"
     width="95%"
@@ -40,8 +32,6 @@
   />
 
 </div>
-
-
 <div align="center">
 
 ### ⭐⭐⭐⭐⭐ Thanks for visiting my GitHub profile ⭐⭐⭐⭐⭐
