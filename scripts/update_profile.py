@@ -1,70 +1,95 @@
-"""Update GitHub profile lifetime and list all public, non-fork repositories."""
+
+"""Automatically update GitHub journey and stats image URLs."""
+
 import datetime as dt
 import html
-import json
-import os
+import re
 from pathlib import Path
-from urllib.request import Request, urlopen
+from urllib.parse import (
+    parse_qsl,
+    urlencode,
+    urlsplit,
+    urlunsplit,
+)
 
-USERNAME = "datasifaw"
 README = Path("README.md")
-TOKEN = os.environ.get("GH_TOKEN", "")
+START_DATE = dt.date(2024, 10, 2)
 
-
-def api(path):
-    req = Request(
-        f"https://api.github.com{path}",
-        headers={
-            "Accept": "application/vnd.github+json",
-            "User-Agent": "datasifaw-profile-readme",
-            **({"Authorization": f"Bearer {TOKEN}"} if TOKEN else {}),
-        },
-    )
-    with urlopen(req, timeout=25) as response:
-        return json.load(response)
-
-
-def replace_section(content, marker, value):
-    start = f"<!-- {marker}:START -->"
-    end = f"<!-- {marker}:END -->"
-    if content.count(start) != 1 or content.count(end) != 1:
-        raise ValueError(f"Missing or duplicated README markers: {marker}")
-    before, remainder = content.split(start, 1)
-    _, after = remainder.split(end, 1)
-    return before + start + "\n" + value + "\n" + end + after
-
-
-profile = api(f"/users/{USERNAME}")
-repos = []
-page = 1
-while True:
-    batch = api(f"/users/{USERNAME}/repos?per_page=100&page={page}&type=owner&sort=updated")
-    if not batch:
-        break
-    repos.extend(batch)
-    if len(batch) < 100:
-        break
-    page += 1
-
-# Exclude the special README repository and forked projects.
-repos = [r for r in repos if not r.get("fork") and r["name"].lower() != USERNAME.lower()]
-repos.sort(key=lambda r: r["name"].casefold())
-
-rows = ["| Project | Description | Language |", "| --- | --- | --- |"]
-for repo in repos:
-    name = html.escape(repo["name"], quote=False).replace("|", "\\|")
-    description = html.escape(repo.get("description") or "—", quote=False).replace("|", "\\|").replace("\n", " ")
-    language = html.escape(repo.get("language") or "—", quote=False).replace("|", "\\|")
-    url = repo["html_url"]
-    rows.append(f"| [{name}]({url}) | {description} | {language} |")
-rows.append(f"\n**{len(repos)} public projects** (excluding forks and this profile repository).")
-
-start_date = dt.date.fromisoformat(profile["created_at"][:10])
 today = dt.datetime.now(dt.timezone.utc).date()
-dates = f"**GitHub journey:** {start_date:%d/%m/%Y} → {today:%d/%m/%Y} (updated daily, UTC)"
+version = today.strftime("%Y%m%d")
 
 content = README.read_text(encoding="utf-8")
-content = replace_section(content, "PROFILE-DATES", dates)
-content = replace_section(content, "ALL-PROJECTS", "\n".join(rows))
+
+# 1. Update GitHub journey
+start = "<!-- PROFILE-DATES:START -->"
+end = "<!-- PROFILE-DATES:END -->"
+
+if content.count(start) != 1 or content.count(end) != 1:
+    raise ValueError("PROFILE-DATES markers missing or duplicated")
+
+dates = (
+    f"**GitHub journey:** {START_DATE:%d/%m/%Y}"
+    f" → {today:%d/%m/%Y} (updated daily, UTC)"
+)
+
+content = re.sub(
+    re.escape(start) + r".*?" + re.escape(end),
+    lambda _: f"{start}\n{dates}\n{end}",
+    content,
+    flags=re.DOTALL,
+)
+
+# 2. Refresh GitHub stats image URLs
+domains = {
+    "github-stats-extended.vercel.app",
+    "streak-stats.demolab.com",
+    "github-profile-summary-cards.vercel.app",
+}
+
+updated = 0
+
+def refresh_image(match):
+    global updated
+
+    original = match.group(1)
+    url = html.unescape(original)
+    parts = urlsplit(url)
+
+    if parts.hostname not in domains:
+        return match.group(0)
+
+    params = [
+        (key, value)
+        for key, value in parse_qsl(
+            parts.query, keep_blank_values=True
+        )
+        if key != "v"
+    ]
+
+    params.append(("v", version))
+
+    new_url = urlunsplit(
+        parts._replace(query=urlencode(params))
+    )
+
+    updated += 1
+
+    return f'src="{html.escape(new_url, quote=True)}"'
+
+content = re.sub(
+    r'src="([^"]+)"',
+    refresh_image,
+    content,
+)
+
+if updated < 4:
+    raise ValueError(
+        f"Expected 4 stats images, found {updated}"
+    )
+
+# 3. Save README
 README.write_text(content, encoding="utf-8")
-print(f"Updated profile from {start_date} to {today}: {len(repos)} projects")
+
+print(f"GitHub journey updated: {today}")
+print(f"Stats images refreshed: {updated}")
+print(f"Cache version: {version}")
