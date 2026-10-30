@@ -39,6 +39,10 @@
 
 
 
+<!-- PROFILE-DATES:START -->
+**GitHub journey:** 02/10/2024 → 30/10/2026 (updated daily, UTC)
+<!-- PROFILE-DATES:END -->
+
 ### ⭐⭐⭐⭐⭐ Thanks for visiting my GitHub profile ⭐⭐⭐⭐⭐
                     
 </div>
