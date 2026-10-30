@@ -14,15 +14,15 @@
 <div align="center">
 
   <img
-    src="https://github-stats-extended.vercel.app/api?username=datasifaw&show_icons=true&theme=tokyonight&hide_border=true&v=20261030"
+    src="https://github-stats-extended.vercel.app/api?username=datasifaw&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;v=20261030"
     width="32%"
     alt="GitHub Stats"
   /><img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=datasifaw&layout=compact&theme=tokyonight&hide_border=true&v=20261030"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=datasifaw&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;v=20261030"
     width="32%"
     alt="Top Languages"
   /><img
-    src="https://streak-stats.demolab.com?user=datasifaw&theme=tokyonight&hide_border=true&v=20261030"
+    src="https://streak-stats.demolab.com?user=datasifaw&amp;theme=tokyonight&amp;hide_border=true&amp;v=20261030"
     width="32%"
     alt="GitHub Streak"
   />
@@ -30,7 +30,7 @@
   <br/><br/>
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datasifaw&theme=tokyonight&v=20261030"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datasifaw&amp;theme=tokyonight&amp;v=20261030"
     width="95%"
     alt="GitHub Activity"
   />
