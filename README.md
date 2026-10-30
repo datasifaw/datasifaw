@@ -9,33 +9,35 @@
  
 </div>
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
 
-  <!-- 3 cartes sur une seule ligne -->
   <img
-    src="https://github-stats-extended.vercel.app/api?username=datasifaw&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=datasifaw&show_icons=true&theme=tokyonight&hide_border=true&v=20261030"
     width="32%"
     alt="GitHub Stats"
   /><img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=datasifaw&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=datasifaw&layout=compact&theme=tokyonight&hide_border=true&v=20261030"
     width="32%"
     alt="Top Languages"
   /><img
-    src="https://streak-stats.demolab.com?user=datasifaw&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=datasifaw&theme=tokyonight&hide_border=true&v=20261030"
     width="32%"
     alt="GitHub Streak"
   />
+
   <br/><br/>
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datasifaw&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datasifaw&theme=tokyonight&v=20261030"
     width="95%"
     alt="GitHub Activity"
   />
 
 </div>
 
-<div align="center">
+
 
 ### ⭐⭐⭐⭐⭐ Thanks for visiting my GitHub profile ⭐⭐⭐⭐⭐
                     
