@@ -38,3 +38,7 @@
 ### ⭐⭐⭐⭐⭐ Thanks for visiting my GitHub profile ⭐⭐⭐⭐⭐
                     
 </div>
+
+
+![GitHub stars](https://img.shields.io/github/stars/UTILISATEUR/DEPOT?style=for-the-badge)
+  
