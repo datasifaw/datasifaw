@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 # 👋 Hi there, I'm SaZ! 
 ### 🚀 Data Engineering | Data Analytics | Machine Learning
