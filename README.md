@@ -4,7 +4,6 @@
 ### 🚀 Data Engineering | Data Analytics | Machine Learning
 [![Profile Visits](https://hits.sh/github.com/datasifaw.svg?style=for-the-badge&label=Profile%20Visits&color=0e75b6)](https://hits.sh/github.com/datasifaw/)
 
- 
 
 <!-- PROFILE-DATES:START -->
 **GitHub journey:** 02/10/2024 → 21/11/2026 (updated daily, UTC)
